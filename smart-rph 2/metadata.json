@@ -1,7 +1,0 @@
-{
-  "name": "Remix: SMART RPH V50 dz",
-  "description": "Aplikasi pengurusan Rekod Pengajaran Harian (eRPH) pintar dengan integrasi Gemini AI untuk penjanaan kandungan PdP yang pantas dan bijak.",
-  "requestFramePermissions": [
-    "camera"
-  ]
-}
